@@ -4,3 +4,4 @@ console.log(abc);
 const def = 456;
 console.log(def);
 const name = "hello";
+console.log("master创建内容");
